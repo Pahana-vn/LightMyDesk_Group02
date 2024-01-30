@@ -4,7 +4,7 @@ Biography
 
 Supervisor : Phạm Công Danh
 
-Semester : I
+Semester : II
 
 Batch No : [T5.2303.E0]
 
@@ -16,7 +16,7 @@ Phạm Hoài NHân (Student1468188)
 
 Lê Ngọc Hải (Student1468198)
 
-ngô Tấn Phúc (Student1441819)
+Ngô Tấn Phúc (Student1441819)
 
 =======================================
 
