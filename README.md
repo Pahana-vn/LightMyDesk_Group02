@@ -20,11 +20,7 @@ ngô Tấn Phúc (Student1441819)
 
 =======================================
 
-Documentations : https://github.com/phamhoainhan/Biography_Group04/tree/main/Documentation
-
-=======================================
-
-Published website : https://phamhoainhan.github.io/Biography_Group04/
+Documentations : https://github.com/Pahana-vn/LightMyDesk_Group02/tree/main/document
 
 =======================================
 
