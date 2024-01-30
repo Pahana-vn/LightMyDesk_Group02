@@ -22,6 +22,8 @@ ngô Tấn Phúc (Student1441819)
 
 Documentations : https://github.com/Pahana-vn/LightMyDesk_Group02/tree/main/document
 
+Link demo video LightMyDesk: https://www.youtube.com/watch?v=M4fpT4XII7g
+
 =======================================
 
 Thank you for visit our website.
